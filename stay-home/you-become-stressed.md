@@ -2,4 +2,4 @@
 
 You become really stressed out and throw your tv out the window. Now you start to become bored aagin and you go back to bed.
 
-[Start over.](cyoa-project/wake-up.md )
+[Start over.](../wake-up.md)
