@@ -1,5 +1,10 @@
 # Stay Home
 
+![](apush-work.jpg)     
+
+![](playing-videogames)
+
+
 You have decided that you want to stay home. What should you do now? 
 
 [Play videogames.](hacked.md) 
