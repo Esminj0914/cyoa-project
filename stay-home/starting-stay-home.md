@@ -2,7 +2,7 @@
 
 ![](apush-work.jpg)     
 
-![](playing-videogames)
+![](playing-videogames.jpg)
 
 
 You have decided that you want to stay home. What should you do now? 
