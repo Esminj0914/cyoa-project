@@ -4,4 +4,4 @@ You decided to stay with the man, and he guided you to this building. When you e
 
 *Game Over*
 
-[Restart](../wake-up)
+[Restart](../wake-up.md)

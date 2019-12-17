@@ -5,4 +5,4 @@ You and your friends continued to walk. You guys were waiting for the red light 
 
 * GAME OVER *
 
-[Restart](../wake-up)
+[Restart](../wake-up.md)
