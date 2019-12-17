@@ -1,4 +1,6 @@
-# Hacked 
+# Hacked    
+
+![](hacker.jpg)
 
 You start playing fortnite with your friends for a while and you get hacked by some random dude. What is your reaction? 
 
