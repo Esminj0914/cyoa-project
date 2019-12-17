@@ -1,7 +1,7 @@
 # You are now friends with the stranger
 
-After some talking you become friends with the stranger but your friends find him suspicious and is walking away. Whats your next move.
+After talking for 5 mins you become friends with the stranger but your friends find him suspicious and are walking away. Whats your next move.
 
-[stay with the stanger](enter-slaughter-house.md)
+[Stay with the stanger](enter-slaughter-house.md)
 Or
-[stay with friends](hit-by-a-wrecking-ball.md)
+[Follow your friends](hit-by-a-wrecking-ball.md)
