@@ -6,4 +6,4 @@ You followed this creepy man, and he stopped to talk to you. You both started to
 
 [Stay with the creepy man](enter-slaughter-house.md)   
 or
-[Leave with your friends](hit-by-wrecking-ball.md)
+[Leave with your friends](hit-by-a-wrecking-ball.md)
