@@ -1,6 +1,6 @@
 # You drop the class
 
-You start to do your apush work but its too much too handle and you ended up dropping class. 
+You start to do your apush work but its too much too handle and you ended up dropping the class. 
 
 
 *GAME OVER* 
