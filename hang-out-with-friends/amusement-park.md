@@ -8,4 +8,4 @@ You chose to go to the amusment park with your friends. Your couple of blocks aw
  
  or
  
- [Stay Away](stay-away.md)
+ [Stay Away](hit-by-a-wrecking-ball.md)
