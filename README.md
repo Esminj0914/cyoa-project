@@ -1,3 +1,5 @@
+# CHOOSE YOUR ADVENTURE
+
 The purpose of this project is to practice working with a collaborator and how to deal with merge conflicts.     
 
 [Click this to see our outline](https://docs.google.com/drawings/d/13lbVBhqjzI4REn6QDZMEpTQ0pnVtBiDeYYZhT4IHPjc/edit?usp=sharing) . 
